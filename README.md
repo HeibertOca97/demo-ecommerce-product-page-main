@@ -11,5 +11,5 @@ You can see and test this development through this link: [Ecommerce product page
 ![Design preview for the E-commerce product page coding challenge](./design/mobile-design.jpg)
 
 ## Author
-- Website - [Heibert Ocaña](https://heibert-ocana.ga/)
+- Website - [Heibert Ocaña](https://heibert-ocana.ml/)
 - Frontend Mentor - [@HeibertOca97](https://www.frontendmentor.io/profile/HeibertOca97)
